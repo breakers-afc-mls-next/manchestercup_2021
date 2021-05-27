@@ -24,11 +24,11 @@ Table of Contents
 ## Game Schedule Team ID #2267
 Day | Date | Field | GameID | Location | Info
 ---|---|---|---|---|---
-Sat| 5/29 | 7.30am | Field 3 | Game #211 | 3302 Senior Center Drive OceanSide   |  Group Round Flight2
-Sat| 5/29 | 1.45pm | Field 4 | Game #214 | 3302 Senior Center Drive OceanSide | Group Round Flight 2
-Sun| 5/30 |3.00pm | Field 6 | Game #216 | 3302 Senior Center Drive OceanSide |  Group Round Flight 2
-Mon | 5/31| 8.00am |  Field 1 or 2|  Game #229 |  14989 Via De la Valle, Del Mar | Semi Finals 
-Mon | 5/31|12.45pm | Field 18 | Game #229 | 14989  Via De la Valle, Del Mar | Finals
+Sat| 5/29 | 7.30am | Field 3 | Game #211 | [3302 Senior Center Drive OceanSide](https://www.google.com/maps/place/SoCal+Sports+Complex/@33.2074698,-117.3163882,15z/data=!4m13!1m7!3m6!1s0x80dc71a75e061f19:0xa309c14551c2d468!2s3302+Senior+Center+Dr,+Oceanside,+CA+92056!3b1!8m2!3d33.2061009!4d-117.3148647!3m4!1s0x80dc71ba760d0159:0x23b942901e77039!8m2!3d33.2060769!4d-117.3207507)   |  Group Round Flight2
+Sat| 5/29 | 1.45pm | Field 4 | Game #214 | [3302 Senior Center Drive OceanSide](https://www.google.com/maps/place/SoCal+Sports+Complex/@33.2074698,-117.3163882,15z/data=!4m13!1m7!3m6!1s0x80dc71a75e061f19:0xa309c14551c2d468!2s3302+Senior+Center+Dr,+Oceanside,+CA+92056!3b1!8m2!3d33.2061009!4d-117.3148647!3m4!1s0x80dc71ba760d0159:0x23b942901e77039!8m2!3d33.2060769!4d-117.3207507) | Group Round Flight 2
+Sun| 5/30 |3.00pm | Field 6 | Game #216 | [3302 Senior Center Drive OceanSide](https://www.google.com/maps/place/SoCal+Sports+Complex/@33.2074698,-117.3163882,15z/data=!4m13!1m7!3m6!1s0x80dc71a75e061f19:0xa309c14551c2d468!2s3302+Senior+Center+Dr,+Oceanside,+CA+92056!3b1!8m2!3d33.2061009!4d-117.3148647!3m4!1s0x80dc71ba760d0159:0x23b942901e77039!8m2!3d33.2060769!4d-117.3207507) |  Group Round Flight 2
+Mon | 5/31| 8.00am |  Field 1 or 2|  Game #229 |  [14989 Via De la Valle, Del Mar](https://www.google.com/maps/place/San+Diego+Surf+Soccer+Club+Back+Fields/@32.9842152,-117.222073,17z/data=!4m9!1m2!2m1!1s14989+Via+De+la+Valle,+Del+Mar+soccer!3m5!1s0x0:0xafd4f6820fb40d88!8m2!3d32.9851603!4d-117.2171526!15sCiUxNDk4OSBWaWEgRGUgbGEgVmFsbGUsIERlbCBNYXIgc29jY2VykgELc3BvcnRzX2NsdWI) | Semi Finals, only played based upon previous results
+Mon | 5/31|12.45pm | Field 18 | Game #229 | [14989  Via De la Valle, Del Mar](https://www.google.com/maps/place/San+Diego+Surf+Soccer+Club+Back+Fields/@32.9842152,-117.222073,17z/data=!4m9!1m2!2m1!1s14989+Via+De+la+Valle,+Del+Mar+soccer!3m5!1s0x0:0xafd4f6820fb40d88!8m2!3d32.9851603!4d-117.2171526!15sCiUxNDk4OSBWaWEgRGUgbGEgVmFsbGUsIERlbCBNYXIgc29jY2VykgELc3BvcnRzX2NsdWI) | Finals, only played based upon previous results
 
 ## Tournament Data
 - Manchester CityCup: https://mancitycup.com

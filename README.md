@@ -1,5 +1,22 @@
 # San Diego ManchesterCup Weekend 5/29/21 - 5/31/21
 
+
+Table of Contents
+=================
+
+* [San Diego ManchesterCup Weekend 5/29/21 - 5/31/21](#san-diego-manchestercup-weekend-52921---53121)
+   * [Live Schedule for last minute changes](#live-schedule-for-last-minute-changes)
+   * [Game Schedule Team ID #2267](#game-schedule-team-id-2267)
+   * [Tournament Data](#tournament-data)
+   * [Opponents Ranking](#opponents-ranking)
+   * [Opponents Rankings:](#opponents-rankings)
+   * [Hotel Info](#hotel-info)
+   * [Roster Details](#roster-details)
+   * [Coach Practice / Zoom Plan](#coach-practice--zoom-plan)
+   * [Uniforms - Home](#uniforms---home)
+   * [Uniforms - Away](#uniforms---away)
+
+
 ## Live Schedule for last minute changes
 
 [https://2021mancitycup.surfcupsports.com/events/schedules/28?team-id=2267](https://2021mancitycup.surfcupsports.com/events/schedules/28?team-id=2267)
@@ -59,5 +76,5 @@ Then try to be in bed by 8pm.
 
 
 ## Uniforms - Away
-![AWAY](./JPG/away_uniform.jpg)
+![AWAY](./jpg/away_uniform.jpg)
 

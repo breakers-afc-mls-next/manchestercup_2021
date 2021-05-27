@@ -10,7 +10,7 @@ Table of Contents
    * [Live Schedule for last minute changes](#live-schedule-for-last-minute-changes)
    * [Game Schedule Team ID #2267](#game-schedule-team-id-2267)
    * [Tournament Data](#tournament-data)
-   * [Opponents Ranking](#opponents-ranking)
+   * [Opponents Details](#opponents-details)
    * [Opponents Rankings:](#opponents-rankings)
    * [Hotel Info](#hotel-info)
    * [Roster Details](#roster-details)
@@ -38,7 +38,7 @@ Mon | 5/31|12.45pm | Field 18 | Game #229 | [14989  Via De la Valle, Del Mar](ht
 - Standing https://2021mancitycup.surfcupsports.com/events/standings/28?flight-id=139&gender=M&age=U12
 - Team: https://2021mancitycup.surfcupsports.com/events/schedules/28?team-id=2267
 
-## Opponents Ranking
+## Opponents Details
 - [Team 1: Prime SC 09 Boys National League](https://home.gotsoccer.com/(X(1))/rankings/team.aspx?TeamID=1158574)
 - [Team 2: LASC B2009 Zaharie  - 58, 161, CAS:58, R4:284,  1-0-2, 33%)](https://home.gotsoccer.com/(X(1))/rankings/results.aspx?Level=State&Gender=Boys&Age=12&State=CAS&pos=133&hl=897922)
 - [Team 3: Sand & Surf Boys 2009 Elite - 19, 1359, CAS: 19, R4:105, 3-1-0, 75%](https://home.gotsoccer.com/(X(1))/rankings/team.aspx?TeamID=1139823)

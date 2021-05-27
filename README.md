@@ -11,7 +11,7 @@ Table of Contents
    * [Game Schedule Team ID #2267](#game-schedule-team-id-2267)
    * [Tournament Data](#tournament-data)
    * [Opponents Details](#opponents-details)
-   * [Opponents Rankings:](#opponents-rankings)
+   * [Opponents Rankings](#opponents-rankings)
    * [Hotel Info](#hotel-info)
    * [Roster Details](#roster-details)
    * [Coach Practice / Zoom Plan](#coach-practice--zoom-plan)
@@ -22,6 +22,12 @@ Table of Contents
 ## Live Schedule for last minute changes
 
 [https://2021mancitycup.surfcupsports.com/events/schedules/28?team-id=2267](https://2021mancitycup.surfcupsports.com/events/schedules/28?team-id=2267)
+
+
+## Parking Info
+
+- Parking fees $12 at SoCal Sports Complex | $10 at Surf Cup Sports Park 
+
 
 ## Game Schedule Team ID #2267
 Day | Date | Field | GameID | Location | Info
@@ -50,6 +56,8 @@ Mon | 5/31|12.45pm | Field 18 | Game #229 | [14989  Via De la Valle, Del Mar](ht
 
 ## Hotel Info
 - [Town and Country San Diego, 500 Hotel Circle North, San Diego, CA 92108](https://www.google.com/maps/place/500+Hotel+Cir+N,+San+Diego)
+<img src="./JPG/hotel_info.jpg" alt="away" width="100"/>
+
 
 ## Roster Details
 Playes FirstName | TelNr

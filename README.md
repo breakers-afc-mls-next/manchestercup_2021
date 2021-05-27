@@ -76,5 +76,5 @@ Then try to be in bed by 8pm.
 
 
 ## Uniforms - Away
-![AWAY](./jpg/away_uniform.jpg)
+![AWAY](./JPG/away_uniform.jpg)
 

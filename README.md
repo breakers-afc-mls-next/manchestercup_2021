@@ -47,8 +47,7 @@ Mon | 5/31|12.45pm | Field 18 | Game #229 | 14989  Via De la Valle, Del Mar | Fi
 - [Team 3 Sand & Surf](https://home.gotsoccer.com/(X(1))/rankings/results.aspx?Level=State&Gender=Boys&Age=12&State=CAS&pos=27&hl=1286574)
 
 ## Hotel Info
-- [Hotel 1: Town and Country San Diego, 500 Hotel Circle North, San Diego, CA 92108](https://www.google.com/maps/place/500+Hotel+Cir+N,+San+Diego,+CA+92108/@32.7635268,-117.1711677,17z/
-data=!3m1!4b1!4m5!3m4!1s0x80d9552dd26aac05:0xbaccd4c0e8a92d9!8m2!3d32.7635223!4d-117.168979)
+- [Town and Country San Diego, 500 Hotel Circle North, San Diego, CA 92108](https://www.google.com/maps/place/500+Hotel+Cir+N,+San+Diego)
 
 ## Roster Details
 Playes FirstName | TelNr

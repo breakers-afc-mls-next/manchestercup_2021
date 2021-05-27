@@ -1,6 +1,6 @@
 # San Diego ManchesterCup Weekend 5/29/21 - 5/31/21
 
-<img src="./JPG/breakers.PNG">
+<img align="right" width="100" height="100" src="./JPG/breakers.PNG" alt="breakers afc image" />
 
 
 Table of Contents
@@ -77,5 +77,4 @@ Then try to be in bed by 8pm.
 
 
 ## Uniforms - Away
-![AWAY](./JPG/away_uniform.jpg)
-
+<img src="./JPG/away_uniform.jpg" alt="away" width="100"/>

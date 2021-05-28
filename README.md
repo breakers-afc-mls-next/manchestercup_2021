@@ -71,14 +71,29 @@ Sammy | 408 506 7351
 ```
 Coach Plan
 
-Rough plan based on this schedule.
-Goal: try to get kids into a slightly earlier cycle.
-Wednesday try to get your son up early tomorrow and in bed by 9pm 
-Thursday 7am zoom 30 minutes
-Try to get your son in bed by 8.30 
-Friday 7am zoom 30 minutes 
-Friday evening 6pm team tactical zoom 
-Then try to be in bed by 8pm.
+Robert Kiernan is inviting you to a scheduled Zoom meeting.
+
+Topic: Virtual Morning Sessions: 7:30am - 8:00am with SCPROSOCCER
+Time: May 28, 2021 07:30 AM Pacific Time (US and Canada)
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/82125717297
+
+Meeting ID: 821 2571 7297
+One tap mobile
++16699009128,,82125717297# US (San Jose)
++13462487799,,82125717297# US (Houston)
+
+Dial by your location
+        +1 669 900 9128 US (San Jose)
+        +1 346 248 7799 US (Houston)
+        +1 253 215 8782 US (Tacoma)
+        +1 301 715 8592 US (Washington DC)
+        +1 312 626 6799 US (Chicago)
+        +1 646 558 8656 US (New York)
+Meeting ID: 821 2571 7297
+Find your local number: https://us02web.zoom.us/u/kyOjznMx9
+
 ```
 
 ## Uniforms - Home

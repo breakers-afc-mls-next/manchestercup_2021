@@ -2,6 +2,10 @@
 
 <img align="right" width="100" height="100" src="./JPG/breakers.PNG" alt="breakers afc image" />
 
+## First Place
+ 
+- <img src="./JPG/1st_place.JPG" width=800 height=600 /> 
+- [More pics and videos](https://www.youtube.com/playlist?list=PLwqmavOE6xLNbKyMTduqm59T0u0hnsD4j)
 
 Table of Contents
 =================
@@ -101,3 +105,6 @@ Find your local number: https://us02web.zoom.us/u/kyOjznMx9
 
 ## Uniforms - Away
 <img src="./JPG/away_uniform.jpg" alt="away" width="100"/>
+
+### References 
+- [More pics and videos](https://www.youtube.com/playlist?list=PLwqmavOE6xLNbKyMTduqm59T0u0hnsD4j)
